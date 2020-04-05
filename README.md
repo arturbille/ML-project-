@@ -31,7 +31,7 @@ Our data set consists of three parts. The first one contains the whole satellite
 To download the data set:
 
 ```
-cd latent_3d_points/
+cd ML-project-Group9-WeakLearners/
 
 ./download_data.sh
 ```
