@@ -1,4 +1,6 @@
-![GitHub Logo](/satellite_pic.png=550x250)
+<p align="center">
+  <img width="460" height="300" src="/satellite_pic.png">
+</p>
 
 Created by Olga Sutyrina, Sarah Elemili, Abduragim Shtanchaev and Artur Bille
 
