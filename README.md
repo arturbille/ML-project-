@@ -1,6 +1,6 @@
 Created by Olga Sutyrina, Sarah Elemili, Abduragim Shtanchaev and Artur Bille
 
-# ML-project-
+# ML-project-09: Weak learners
 This work was part of the lecture "Machine Learning" at Skoltech, Moscow, in 2020. 
 We analyzed sparse and convolutational autoencoders (SAE, CAE) with appended "classical" classifiers (AdaBoost, CatBoost, XGB, SVC, RFC, Log. Regr.), as well two convolutional neural networks (CNN) with different structures as end-to-end classifiers.
 Details and explicit architectures of the considered models can found in the report. 
