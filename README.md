@@ -1,6 +1,4 @@
-![GitHub Logo](/satellite_pic.png)
-Format: ![Alt Text](url)
-
+![GitHub Logo](/satellite_pic.png=550x250)
 
 Created by Olga Sutyrina, Sarah Elemili, Abduragim Shtanchaev and Artur Bille
 
