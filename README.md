@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](satellite_pic)
 Format: ![Alt Text](url)
 
 
