@@ -14,6 +14,7 @@ Requirement:
   * Numpy
   * Matplotlib
   * rasterio
+  * fiona
   * xgboost
   * torch
   * sklearn
