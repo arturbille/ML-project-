@@ -28,6 +28,12 @@ To run our codes you have to install the following modules:
 # Data set
 Our data set consists of three parts. The first one contains the whole satellite picture with 4561 x 6559 pixels and 8 channels. The second one includes 1012 labeled trees positions. Possible labels are: 0 = 'Spruce', 1 = 'Birch', 2 = 'Fir', 3 = 'Pine'. In the third part one can find positions of 10492 unlabeled tree crown positions within the satellite picture. The provided extractor module includes a function which extracts the pixels in the surrounding of every tree crown. 
 
+To download the data set:
+
+`<cd latent_3d_points/
+
+./download_data.sh>`
+
 # Usage
 In this project we set up four experiments. To find all needed implemenations and results of each of them, follow this structure: 
 
