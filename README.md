@@ -30,9 +30,9 @@ Our data set consists of three parts. The first one contains the whole satellite
 
 To download the data set:
 
-`<cd latent_3d_points/
+```cd latent_3d_points/
 
-./download_data.sh>`
+./download_data.sh```
 
 # Usage
 In this project we set up four experiments. To find all needed implemenations and results of each of them, follow this structure: 
