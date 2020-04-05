@@ -1,7 +1,6 @@
 Created by Olga Sutyrina, Sarah Elemili, Abduragim Shtanchaev and Artur Bille
 
-# Individual Tree Crown classification on WorldView-2 Images using Autoencoder
-# Group 9 Weak learners - Final Project (Machine Learning 2020 Course)
+# Individual Tree Crown classification on WorldView-2 Images using Autoencoder -- Group 9 Weak learners - Final Project (Machine Learning 2020 Course)
 We analyzed sparse and convolutational autoencoders (SAE, CAE) with appended "classical" classifiers (AdaBoost, CatBoost, XGB, SVC, RFC, Log. Regr.), as well two convolutional neural networks (CNN) with different structures as end-to-end classifiers.
 Details and explicit architectures of the considered models can found in the report. 
 
