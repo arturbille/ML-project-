@@ -21,6 +21,8 @@ Requirement:
   
 To extract the pixels around a given tree, use our [*extractor*-module](https://github.com/arturbille/ML-project-Group9-WeakLearners/tree/master/Extractor).
 
+Our code has been tested with Python 3 on GoogleColab.
+
 # Installation
 To run our codes you have to install the following modules: 
 [fiona](https://pypi.org/project/Fiona/), [rasterio](https://rasterio.readthedocs.io/en/latest/) and [catboost](https://catboost.ai/docs/concepts/python-reference_apply_catboost_model.html).
